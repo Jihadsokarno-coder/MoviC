@@ -1,0 +1,18 @@
+:root {
+  --text: #ffffff;
+  --bg: #1d1b1d;
+  --accent: #aa3bff;
+
+  --sans: system-ui, "Segoe UI", Roboto, sans-serif;
+  --heading: system-ui, "Segoe UI", Roboto, sans-serif;
+
+  font: 18px/145% var(--sans);
+  color: var(--text);
+  background: var(--bg);
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
